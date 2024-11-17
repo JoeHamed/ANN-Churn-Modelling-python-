@@ -1,4 +1,4 @@
-###Customer Churn Prediction Using ANN
+# **Customer Churn Prediction Using ANN**
 This project demonstrates how to build, train, and evaluate an Artificial Neural Network (ANN) to predict customer churn using the Churn_Modelling.csv dataset.
 
 Overview
